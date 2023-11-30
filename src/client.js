@@ -1,7 +1,3 @@
-/**
- * Ici, on ajoute des fonctionnalités qui utilisent NodeJS (uniquement si on utilise Electron).
- */
-
 import net from "net";
 
 const IP = "localhost";
